@@ -20,7 +20,7 @@ Personal portfolio website built with React and React Router, featuring an inter
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/mcocapelaz/myPortfolio
+git clone https://github.com/mcocapelaz/myPersonalPortfolio
 
 2. Install dependencies:
 npm install
