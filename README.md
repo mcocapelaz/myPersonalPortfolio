@@ -2,6 +2,8 @@
 
 Personal portfolio website built with React and React Router, featuring an interactive quiz to recommend projects based on user preferences.
 
+Git Pages Link: https://mcocapelaz.github.io/myPersonalPortfolio/
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
