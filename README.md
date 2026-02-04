@@ -58,7 +58,7 @@ To customize the portfolio for your own use:
 
 ## Author
 
-Created with ❤️ by Mónica Coca
+Mónica Coca
 
 ## License
 
