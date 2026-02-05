@@ -67,9 +67,9 @@ const projectByType = {
   hybrid: {
     title: "Development + Documentation",
     description:
-      "Full-stack project showcasing both clean code and comprehensive documentation. Includes React components, Node.js APIs, and complete technical guides.",
+      "Full-stack project showcasing both clean code and comprehensive documentation. Includes complete technical guides.",
     role: "Hybrid developer and technical writer work",
-    repoUrl: "https://github.com/mcocapelaz/technical-writing-portfolio", // Ajusta según tu repo
+    repoUrl: "https://github.com/mcocapelaz/technical-writing-portfolio", 
   },
 };
 
