@@ -1,4 +1,4 @@
-# My Portfolio
+# Mónica Coca: My Personal Portfolio
 
 Personal portfolio website built with React and React Router, featuring an interactive quiz to recommend projects based on user preferences.
 
