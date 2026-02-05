@@ -5,8 +5,8 @@ function Contact() {
         <div className="contact-text">
           <h2>Get in touch</h2>
           <p className="contact-subtitle">
-            Looking for a developer who loves clean code, learning and teamwork?
-            Let&apos;s talk.
+          Looking for a developer and technical writer who loves clean code, 
+          clear docs, and continuous learning? Let's talk! 
           </p>
 
           <a

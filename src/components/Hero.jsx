@@ -12,7 +12,7 @@ function Hero() {
           <HeroTitle />       
 
           <Link to="/quiz" className="cta-button">
-            What do you need? Find your project!
+            Find your match! 
           </Link>
         </div>
 

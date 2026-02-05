@@ -143,26 +143,32 @@ body {
 
 .cta-button {
   display: inline-block;
-  background: rgba(99, 78, 91, 0.2);
+  background:linear-gradient(135deg, rgba(255, 138, 212, 0.2), rgba(255, 138, 212, 0.3));
   color: white;
-  padding: 0.9rem 2.3rem;
+  padding: 1rem 2.5rem;
   margin: 1rem;
   border-radius: 999px;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 700;
   font-family: inherit;
   font-size: 1rem;
   line-height: 1.2;
   border: 1px solid #ff8ad4;
-  box-shadow: 0 0 12px rgba(255, 138, 212, 0.4);
+  box-shadow: 
+    0 0 20px rgba(255, 138, 212, 0.5),
+    0 4px 12px rgba(0, 0, 0, 0.3); 
   transition: transform 0.25s, box-shadow 0.25s, background 0.25s, color 0.25s;
+  text-transform: uppercase;
+  cursor: pointer;
 }
 
 .cta-button:hover {
-  transform: translateY(-2px);
-  background: #ff8ad4; 
+  transform: translateY(-4px) scale(1.05);
+  background: linear-gradient(135deg, #ff8ad4, #ffb3e6);
   color: #050816;
-  box-shadow: 0 0 24px rgba(255, 138, 212, 0.7);
+  box-shadow: 
+    0 0 40px rgba(255, 138, 212, 1),
+    0 8px 24px rgba(255, 138, 212, 0.4);
 }
 
 .result-actions {

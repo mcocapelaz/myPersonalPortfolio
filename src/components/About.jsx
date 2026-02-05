@@ -5,15 +5,16 @@ function About() {
         <div className="about-text">
           <h2>About Me</h2>
           <p className="about-lead">
-            I build fun, interactive experiences on the web, combining clean
-            code with a strong focus on collaboration and learning.
+            I build web applications and write technical documentation,
+            combining frontend development skills with a passion for clarity,
+            user experience, and collaborative learning.
           </p>
         </div>
 
         <div className="about-highlights">
-          <div className="about-pill">User‑focused web experiences</div>
-          <div className="about-pill">From idea to usable prototype</div>
-          <div className="about-pill">Teamwork & clear communication</div>
+          <div className="about-pill">25+ years storytelling meets code</div>
+          <div className="about-pill">Building & documenting web apps</div>
+          <div className="about-pill">Fast learner & Team player</div>
         </div>
 
         <div className="toolbox-card">
@@ -22,8 +23,16 @@ function About() {
           <div className="toolbox-grid">
             <div className="toolbox-item">
               <div className="toolbox-logos">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" className="toolbox-logo" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" className="toolbox-logo" />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                  alt="HTML5"
+                  className="toolbox-logo"
+                />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                  alt="CSS3"
+                  className="toolbox-logo"
+                />
               </div>
               <h4>HTML &amp; CSS</h4>
               <p>Accessible layouts, Flexbox, Grid &amp; responsive design.</p>
@@ -31,9 +40,16 @@ function About() {
 
             <div className="toolbox-item">
               <div className="toolbox-logos">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" className="toolbox-logo" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="APIs" className="toolbox-logo" />
-                
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                  alt="JavaScript"
+                  className="toolbox-logo"
+                />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                  alt="APIs"
+                  className="toolbox-logo"
+                />
               </div>
               <h4>JavaScript &amp; APIs</h4>
               <p>
@@ -44,7 +60,11 @@ function About() {
 
             <div className="toolbox-item">
               <div className="toolbox-logos">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" className="toolbox-logo" />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                  alt="React"
+                  className="toolbox-logo"
+                />
               </div>
               <h4>Front‑end: React</h4>
               <p>Components, state, props, routing and local storage.</p>
@@ -52,18 +72,28 @@ function About() {
 
             <div className="toolbox-item">
               <div className="toolbox-logos">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" className="toolbox-logo" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" className="toolbox-logo" />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                  alt="Node.js"
+                  className="toolbox-logo"
+                />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+                  alt="Express"
+                  className="toolbox-logo"
+                />
               </div>
               <h4>Back‑end: Node &amp; Express</h4>
-              <p>
-                REST APIs, routing, JSON data and connecting to databases.
-              </p>
+              <p>REST APIs, routing, JSON data and connecting to databases.</p>
             </div>
 
             <div className="toolbox-item">
               <div className="toolbox-logos">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" className="toolbox-logo" />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                  alt="MySQL"
+                  className="toolbox-logo"
+                />
               </div>
               <h4>Databases &amp; deployment</h4>
               <p>
@@ -74,7 +104,11 @@ function About() {
 
             <div className="toolbox-item">
               <div className="toolbox-logos">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" className="toolbox-logo" />
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                  alt="Git"
+                  className="toolbox-logo"
+                />
               </div>
               <h4>Teamwork &amp; Agile</h4>
               <p>

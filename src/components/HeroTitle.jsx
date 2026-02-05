@@ -8,10 +8,10 @@ function HeroTitle() {
   useEffect(() => {
     typedRef.current = new Typed(el.current, {
       strings: [
-        "Web developer",
-        "Creative",
-        "Constant learner",
-       
+        "Web Developer",
+        "Technical Writer",
+        "Communicator",
+        "Fast learner",
       ],
       typeSpeed: 50,
       backSpeed: 30,
